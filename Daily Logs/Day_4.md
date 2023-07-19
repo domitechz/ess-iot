@@ -33,7 +33,7 @@
 - Introduction to LED matrix -  *overview only* 
 
 - Using more than 2 seven segment displays with arduino  - *Overview of multiplexing*
-
+-----------------
 
 > Activity conducted 
 - **LED is Unipolar** - Find flaw in circuit and reason why LED is not switching ON. 

@@ -8,7 +8,7 @@
 - what is input
 
 - what is output
-- digitalRead function with wire direct to 5V 
+- `digitalRead` function with wire direct to 5V 
 - What is a floating pin
 - Using Serial Monitor 
 - Pull up and pull down configrations and why are they needed

@@ -9,7 +9,7 @@
 
 - *Doubt clearing*
 
-- analogWrite function 
+- `analogWrite` function 
 
 - What is pulse width modulation
 
@@ -27,10 +27,10 @@
 
 - Resistances color codes
 
-- analogRead function with potentiometer and serial monitor
+- `analogRead` function with potentiometer and serial monitor
 
 - Serial plotter
 
 - Potentiometer and LED
 
-- Reading floating pin with analogRead
+- Reading floating pin with `analogRead`

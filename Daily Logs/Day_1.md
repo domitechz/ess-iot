@@ -31,7 +31,7 @@
 
 - Setup and loop in IDE code  
 
-- pinMode and digitalWrite functions in code
+- `pinMode` and `digitalWrite` functions in code
 
 - LED - colours , wavelengths , frequency , energy 
 
@@ -46,6 +46,8 @@
 - Mili, micro, mega, pico units 
 
 - 8 bit vs 16 bit vs 32 bit vs 64 bit 
+
+----------------------
 
 > Overview of some topics given but not fully explained 
 - Github - *importance*
