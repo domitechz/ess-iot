@@ -31,6 +31,8 @@
 
 - Setup and loop in IDE code  
 
+- pinMode and digitalWrite functions in code
+
 - LED - colours , wavelengths , frequency , energy 
 
 - Voltage, current, resistance, Ohms law 
