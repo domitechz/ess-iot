@@ -1,4 +1,4 @@
-# ess-iot
+# ess-iot - LEARN BY DOING 
 Training sessions conducted at STEP GNDEC by Jagmeet Singh and Puran Singh
 
 - Emphasis was given to practical learning without compromising theoretical understandings.
