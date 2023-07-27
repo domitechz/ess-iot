@@ -1,13 +1,13 @@
-#define BLYNK_TEMPLATE_ID "TMPL3Qod-Y3Hh"
-#define BLYNK_TEMPLATE_NAME "Device01"
-#define BLYNK_AUTH_TOKEN "iCb6t3vjRIx0RVZzCpEQ8_oY3E6fmUYo"
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "Note10";
-char pass[] = "qwertyuiop";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 BlynkTimer timer;
 
