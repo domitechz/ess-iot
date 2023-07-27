@@ -1,3 +1,7 @@
+//  https://docs.blynk.io/en/blynk.cloud/update-datastream-value
+//  https://{server_address}/external/api/update?token={token}&{pin}={value}
+//  https://blr1.blynk.cloud/external/api/update?token=iCb6t3vjRIx0RVZzCpEQ8_oY3E6fmUYo&v0=0
+
 #define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
 #define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
